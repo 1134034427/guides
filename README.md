@@ -1,2 +1,1 @@
-# guides
-Windows翻墙、iPhone翻墙/苹果手机翻墙、Mac翻墙、安卓手机翻墙 手把手教程
+### Windows、iPhone、Mac、安卓手机 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
